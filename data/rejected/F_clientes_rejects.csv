@@ -1,0 +1,11 @@
+id_cliente,cliente,correo,telefono,motivo_rechazo
+CL1006,Andrés López 6,cliente645@outlook.com,,telefono
+CL1010,Fernando Gómez 10,,76885202,correo
+CL1012,Carmen Rivas 12,cliente1272@outlook.com,,telefono
+CL1027,Elena Ramírez 27,,73992809,correo
+CL1034,Marta Cruz 34,cliente3454@gmail.com,,telefono
+CL1077,Diego Morales 77,,75356137,correo
+CL1084,Andrés Romero 84,,,"correo,telefono"
+CL1094,Paola Guerrero 94,,73486962,correo
+CL1100,Carmen Torres 100,,79293388-,correo
+CL1105,José Gómez 105,,74726461,correo
